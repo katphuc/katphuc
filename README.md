@@ -2,6 +2,6 @@
 - 🌱 I’m currently learning react.JS and Node.JS
 
 My Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?katphuc=katphuc&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=katphuc&show_icons=true)
 My most used languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?katphuc=katphuc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katphuc)
